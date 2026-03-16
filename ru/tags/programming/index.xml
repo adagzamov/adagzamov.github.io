@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | </title>
+    <link>https://adagzamov.github.io/ru/tags/programming/</link>
+      <atom:link href="https://adagzamov.github.io/ru/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adagzamov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Programming</title>
+      <link>https://adagzamov.github.io/ru/tags/programming/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://adagzamov.github.io/ru/publications/01/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adagzamov.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-управление-версиями&#34;&gt;📚 Что такое управление версиями?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Управление версиями&lt;/strong&gt; — это процесс отслеживания изменений в файлах проекта, чаще всего в исходном коде программ.&lt;br&gt;
+Системы управления версиями помогают разработчикам сохранять историю изменений, возвращаться к предыдущим версиям и работать над проектом совместно.&lt;/p&gt;
+&lt;p&gt;Такие системы особенно важны при разработке программного обеспечения, когда над одним проектом работает несколько человек.&lt;/p&gt;
+&lt;h2 id=&#34;-зачем-нужно-управление-версиями&#34;&gt;💻 Зачем нужно управление версиями?&lt;/h2&gt;
+&lt;p&gt;Системы управления версиями позволяют:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 хранить историю всех изменений проекта&lt;/li&gt;
+&lt;li&gt;🔄 возвращаться к предыдущим версиям файлов&lt;/li&gt;
+&lt;li&gt;👥 работать нескольким разработчикам над одним проектом&lt;/li&gt;
+&lt;li&gt;🛠 безопасно тестировать новые функции&lt;/li&gt;
+&lt;li&gt;🧩 объединять изменения разных участников проекта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это делает разработку более организованной и снижает риск потери данных.&lt;/p&gt;
+&lt;h2 id=&#34;-популярные-системы-управления-версиями&#34;&gt;⚙️ Популярные системы управления версиями&lt;/h2&gt;
+&lt;p&gt;Существует несколько систем управления версиями, но самой популярной сегодня является &lt;strong&gt;Git&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;git&#34;&gt;Git&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; — это распределённая система управления версиями, созданная для эффективной работы с исходным кодом.&lt;/p&gt;
+&lt;p&gt;Основные возможности Git:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;сохранение истории изменений&lt;/li&gt;
+&lt;li&gt;работа с ветками (branches)&lt;/li&gt;
+&lt;li&gt;объединение изменений (merge)&lt;/li&gt;
+&lt;li&gt;совместная работа через платформы вроде &lt;strong&gt;GitHub&lt;/strong&gt; или &lt;strong&gt;GitLab&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git позволяет разработчикам экспериментировать с кодом, не рискуя повредить основную версию проекта.&lt;/p&gt;
+&lt;h2 id=&#34;-платформы-для-работы-с-git&#34;&gt;🌐 Платформы для работы с Git&lt;/h2&gt;
+&lt;p&gt;Чаще всего Git используется вместе со специальными сервисами:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — популярная платформа для хранения и совместной разработки проектов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab&lt;/strong&gt; — сервис с дополнительными инструментами для DevOps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitbucket&lt;/strong&gt; — платформа для командной разработки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти сервисы помогают хранить проекты в интернете и работать над ними совместно.&lt;/p&gt;
+&lt;h2 id=&#34;-заключение&#34;&gt;🚀 Заключение&lt;/h2&gt;
+&lt;p&gt;Управление версиями является важной частью современной разработки программного обеспечения.&lt;br&gt;
+Использование систем вроде &lt;strong&gt;Git&lt;/strong&gt; позволяет эффективно управлять кодом, отслеживать изменения и организовывать совместную работу разработчиков.&lt;/p&gt;
+&lt;p&gt;Освоение систем управления версиями — один из базовых навыков для любого программиста.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

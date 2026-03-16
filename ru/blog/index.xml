@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://adagzamov.github.io/ru/blog/</link>
+      <atom:link href="https://adagzamov.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adagzamov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://adagzamov.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://adagzamov.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adagzamov.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта учебная неделя оказалась насыщенной и продуктивной. За несколько дней я получил новые знания, поработал над практическими заданиями и сделал ещё один шаг в развитии своих навыков в сфере IT.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;компьютерным наукам&lt;/strong&gt; мы разбирали основы алгоритмов и структуры данных. Эти темы помогают лучше понимать, как работают программы и как создавать эффективные решения.&lt;/li&gt;
+&lt;li&gt;💻 Продолжил практиковаться в &lt;strong&gt;программировании&lt;/strong&gt;, решая задачи и улучшая понимание логики кода. С каждой неделей становится легче ориентироваться в структуре программ.&lt;/li&gt;
+&lt;li&gt;🧠 Изучал основы &lt;strong&gt;алгоритмического мышления&lt;/strong&gt;, что помогает находить более оптимальные способы решения задач.&lt;/li&gt;
+&lt;li&gt;📚 Читал дополнительные материалы о современных &lt;strong&gt;технологиях разработки программного обеспечения&lt;/strong&gt; и тенденциях развития IT.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над учебными заданиями и понял, насколько важно правильно планировать время и сохранять концентрацию во время учебы.&lt;/li&gt;
+&lt;li&gt;🌿 Старался находить время для отдыха и небольших прогулок, чтобы сохранять баланс между учебой и личным временем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя обучения помогает мне лучше понимать сферу &lt;strong&gt;компьютерных наук&lt;/strong&gt; и укрепляет желание развиваться в области программирования и технологий.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
