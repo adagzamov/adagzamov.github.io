@@ -5,12 +5,32 @@
     <link>https://adagzamov.github.io/ru/blog/</link>
       <atom:link href="https://adagzamov.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adagzamov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://adagzamov.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://adagzamov.github.io/ru/blog/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adagzamov.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла в активной работе и углублении уже изученных тем. Я старался не только осваивать новый материал, но и закреплять ранее полученные знания через практику.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;компьютерным наукам&lt;/strong&gt; мы продолжили изучение алгоритмов, уделяя больше внимания их эффективности и анализу сложности. Это помогло лучше понять, как выбирать оптимальные решения.&lt;/li&gt;
+&lt;li&gt;💻 Продолжил развивать навыки &lt;strong&gt;программирования&lt;/strong&gt;, решая более сложные задачи и пробуя разные подходы к их реализации.&lt;/li&gt;
+&lt;li&gt;🧠 Работал над развитием &lt;strong&gt;алгоритмического мышления&lt;/strong&gt;, стараясь быстрее находить закономерности и упрощать решения.&lt;/li&gt;
+&lt;li&gt;📚 Изучал дополнительные материалы по &lt;strong&gt;разработке программного обеспечения&lt;/strong&gt;, особенно темы, связанные с практическим применением алгоритмов.&lt;/li&gt;
+&lt;li&gt;⏱️ Улучшал навыки управления временем — заметил, что грамотное распределение задач значительно повышает продуктивность.&lt;/li&gt;
+&lt;li&gt;🌿 Не забывал про отдых: короткие перерывы и прогулки помогали сохранять концентрацию и не перегружаться.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя показала, что системная работа и регулярная практика дают заметный результат. Постепенно становится легче воспринимать сложные темы и применять их на практике.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
