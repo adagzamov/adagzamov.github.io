@@ -5,12 +5,33 @@
     <link>https://adagzamov.github.io/ru/tags/programming/</link>
       <atom:link href="https://adagzamov.github.io/ru/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adagzamov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Programming</title>
       <link>https://adagzamov.github.io/ru/tags/programming/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://adagzamov.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adagzamov.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях — от анализа данных до моделирования сложных физических процессов. На этой неделе я решил подробнее разобраться в языках, которые чаще всего используются в научной среде.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и огромному количеству библиотек. Используется для анализа данных, машинного обучения, численных вычислений и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — специализированный язык для статистики и обработки данных. Отлично подходит для научных исследований, связанных с анализом больших массивов данных.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;C/C++&lt;/strong&gt; — применяются там, где важна максимальная производительность. Часто используются в симуляциях, физике и инженерных задачах.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;MATLAB&lt;/strong&gt; — мощный инструмент для математического моделирования, широко применяемый в академической среде и инженерии.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, который сочетает высокую скорость выполнения с удобством синтаксиса. Набирает популярность в научных вычислениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Особенно интересно наблюдать, как разные языки решают одни и те же задачи — где-то важна скорость, где-то удобство, а где-то наличие специализированных инструментов.&lt;/p&gt;
+&lt;p&gt;📈 Я заметил, что выбор языка сильно зависит от задачи: для прототипирования удобнее использовать Python, а для высоконагруженных вычислений — более низкоуровневые решения.&lt;/p&gt;
+&lt;p&gt;В дальнейшем хочу попробовать применить несколько из этих языков на практике, чтобы лучше понять их сильные и слабые стороны.&lt;/p&gt;
+&lt;p&gt;А какие языки используете вы для научных задач? 💡&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями</title>

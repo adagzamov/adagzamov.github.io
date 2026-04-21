@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Branding | </title>
+    <link>https://adagzamov.github.io/ru/tags/personal-branding/</link>
+      <atom:link href="https://adagzamov.github.io/ru/tags/personal-branding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal Branding</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adagzamov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Personal Branding</title>
+      <link>https://adagzamov.github.io/ru/tags/personal-branding/</link>
+    </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://adagzamov.github.io/ru/projects/hugo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://adagzamov.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;На этой неделе я уделил внимание созданию личного сайта научного работника с использованием &lt;strong&gt;Hugo Academic&lt;/strong&gt; — одного из самых удобных инструментов для представления научной деятельности в интернете.&lt;/p&gt;
+&lt;p&gt;📌 Такой сайт позволяет структурированно и наглядно представить:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 публикации и научные статьи&lt;/li&gt;
+&lt;li&gt;🎓 образование и профессиональный опыт&lt;/li&gt;
+&lt;li&gt;🧪 текущие исследования и проекты&lt;/li&gt;
+&lt;li&gt;🏆 достижения, гранты и награды&lt;/li&gt;
+&lt;li&gt;📬 контактную информацию&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⚙️ &lt;strong&gt;Hugo Academic&lt;/strong&gt; (ныне известный как Wowchemy) — это генератор статических сайтов, который упрощает процесс создания и поддержки персонального сайта без необходимости глубоких знаний веб-разработки.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚀 Быстрый старт: готовые шаблоны позволяют развернуть сайт за короткое время&lt;/li&gt;
+&lt;li&gt;🧩 Гибкость: можно настраивать структуру страниц под свои задачи&lt;/li&gt;
+&lt;li&gt;📱 Адаптивность: сайт корректно отображается на любых устройствах&lt;/li&gt;
+&lt;li&gt;🔍 SEO-оптимизация: помогает сделать научные работы более доступными в поиске&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;💻 В процессе работы я познакомился со структурой проекта: конфигурационные файлы, папки с контентом, темами и статическими ресурсами. Это помогло лучше понять, как организуется контент и как управлять сайтом.&lt;/p&gt;
+&lt;p&gt;🧠 Особенно полезным оказалось то, что контент добавляется в формате Markdown — это делает процесс публикации быстрым и удобным, без необходимости редактировать HTML напрямую.&lt;/p&gt;
+&lt;p&gt;📈 Личный сайт — это не просто визитка, а полноценный инструмент для продвижения научной деятельности, обмена знаниями и установления профессиональных контактов.&lt;/p&gt;
+&lt;p&gt;В дальнейшем планирую доработать сайт: добавить больше публикаций, оформить портфолио проектов и интегрировать дополнительные инструменты для аналитики.&lt;/p&gt;
+&lt;p&gt;А у вас есть личный сайт? 🌍&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
